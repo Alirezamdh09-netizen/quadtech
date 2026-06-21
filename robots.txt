@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quadtech.ir/sitemap.xml
